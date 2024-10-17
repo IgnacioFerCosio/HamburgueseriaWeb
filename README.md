@@ -35,20 +35,20 @@ npm run dev
 
 
 ## Uso
-**Buscar un Producto**
+- Buscar un Producto
 Escribe el nombre del producto en el campo de búsqueda y haz clic en el botón Buscar.
 La aplicación mostrará productos coincidentes con la búsqueda.
-**Agregar o Modificar un Producto**
+- Agregar o Modificar un Producto
 Haz clic en el botón Agregar Elemento. Esto abrirá un modal emergente.
 Rellena los campos con el nombre, imagen, precio y categoría del producto.
 Presiona Aceptar para agregar el producto a la tienda.
 Si seleccionas un producto existente, puedes modificarlo de la misma manera.
-**Eliminar un Producto**
+- Eliminar un Producto
 Selecciona un producto de la lista.
 Haz clic en el botón Eliminar en el modal emergente para removerlo del sistema.
-**Filtrar por Categorías**
+- Filtrar por Categorías
 En el panel lateral, haz clic en una categoría para ver solo los productos correspondientes.
-**Diseño Responsive**
+- Diseño Responsive
 El diseño está optimizado para diferentes tamaños de pantalla utilizando media queries. El layout cambia según el ancho del dispositivo para mejorar la experiencia de usuario.
 Scroll y Desbordamiento
 En pantallas pequeñas, la lista de categorías (sidebar) permite el scroll vertical para manejar el desbordamiento de contenido.
